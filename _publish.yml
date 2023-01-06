@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: f177c200-db20-4727-a6ad-4edfbeb3b47b
+      url: 'https:/yet-another-blog.netlify.app'
